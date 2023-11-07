@@ -1,4 +1,4 @@
-# Iosevka Term SS15 WebFont 27.3.3
+# Iosevka Term SS15 WebFont 27.3.4
 
 ## How to use
 
